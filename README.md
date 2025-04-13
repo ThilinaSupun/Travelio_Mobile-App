@@ -1,1 +1,3 @@
 # Travelio_Mobile-App
+
+The Travelio App is to simplify the way you organize and manage your trips. With features such as user authentication and profile management, easily create an account, log in securely, and save personal preferences for a customized experience. The app allows to plan your trips effortlessly by adding destinations, setting travel dates, and managing itineraries. It also includes a destination search feature that provides recommendations for attractions, restaurants, and accommodations, making it easy to discover new places. Can keep track of travel plans by adding notes and saving important details about your itinerary. Additionally, the app ensures never miss an important event by sending timely reminders and notifications.
